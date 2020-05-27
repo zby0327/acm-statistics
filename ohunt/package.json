@@ -1,0 +1,17 @@
+{
+  "name": "ohunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Liu233w",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "mongodb": "^3.5.7",
+    "simple-odata-server": "^1.1.1",
+    "simple-odata-server-mongodb": "^1.0.0"
+  }
+}

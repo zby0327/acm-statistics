@@ -1,0 +1,20 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# codecov
+coverage
+
+# docker
+.dockerignore
+base.Dockerfile
+release.Dockerfile
+
+# make
+Makefile
+
+# vscode
+.vscode
+.ionide
